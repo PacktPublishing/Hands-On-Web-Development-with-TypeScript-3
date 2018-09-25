@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2fadce80-0a2f-46bf-88dd-49d0b8f8e786" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/chapter_4/generators.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_4/generic.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_4/lazy_iterator.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_4/typeGuard.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_4/unionsAds.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_2/intersectionTypes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_4/intersectionTypes.ts" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="unionsAds.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter_4/unionsAds.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sample</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Dropbox/thompson_workshops/szkolenie/perf-course/exercises/mechancial-sympathy" value="2969920410000" />
+        <entry key="$USER_HOME$/Dropbox/thompson_workshops/szkolenie/perf-course/solutions/mechancial-sympathy" value="2969918678000" />
+        <entry key="$USER_HOME$/Dropbox/thompson_workshops/szkolenie/perf-course/solutions/mechancial-sympathy-solutions" value="2969918678000" />
+        <entry key="$PROJECT_DIR$/../advanced-appengine-workshop" value="2986563724000" />
+        <entry key="$PROJECT_DIR$/../algs4" value="1490621579000" />
+        <entry key="$PROJECT_DIR$/../app-workshop-leleka" value="2986562784000" />
+        <entry key="$PROJECT_DIR$/../canvasser" value="7414542834000" />
+        <entry key="$PROJECT_DIR$/../coins" value="5958699184000" />
+        <entry key="$PROJECT_DIR$/../coins-billing" value="5958704244000" />
+        <entry key="$PROJECT_DIR$/../commons" value="29947710198000" />
+        <entry key="$PROJECT_DIR$/../cookiemonster" value="9962008036000" />
+        <entry key="$PROJECT_DIR$/../discovery-service" value="2849876490000" />
+        <entry key="$PROJECT_DIR$/../discovery-service-client" value="2849877828000" />
+        <entry key="$PROJECT_DIR$/../edge" value="9978353442000" />
+        <entry key="$PROJECT_DIR$/../fb-camus" value="2876338942000" />
+        <entry key="$PROJECT_DIR$/../front-api" value="4337619579000" />
+        <entry key="$PROJECT_DIR$/../hazelcast-consul-discovery-spi" value="2966876024000" />
+        <entry key="$PROJECT_DIR$/../header-service" value="2934200258000" />
+        <entry key="$PROJECT_DIR$/../heatmap-websocket-server" value="1432198644000" />
+        <entry key="$PROJECT_DIR$/../hermes" value="11387951416000" />
+        <entry key="$PROJECT_DIR$/../listing-api" value="2852143490000" />
+        <entry key="$PROJECT_DIR$/../listing-web" value="2853011942000" />
+        <entry key="$PROJECT_DIR$/../model" value="2874077690000" />
+        <entry key="$PROJECT_DIR$/../nemo-admin" value="2846277802000" />
+        <entry key="$PROJECT_DIR$/../nigel" value="2846432986000" />
+        <entry key="$PROJECT_DIR$/../nigel-performance-fork" value="2852482686000" />
+        <entry key="$PROJECT_DIR$/../nigel-performance-gatling" value="2852333582000" />
+        <entry key="$PROJECT_DIR$/../noti2client" value="2984180334000" />
+        <entry key="$PROJECT_DIR$/../notificationstwo" value="8958630276000" />
+        <entry key="$PROJECT_DIR$/../onboarding-item-counter" value="2845937737000" />
+        <entry key="$PROJECT_DIR$/../outsider" value="4443049179000" />
+        <entry key="$PROJECT_DIR$/../profile-front-api" value="5794463736000" />
+        <entry key="$PROJECT_DIR$/../profile-web-admin" value="7267335005000" />
+        <entry key="$PROJECT_DIR$/../rxjava-workshop" value="1488530146000" />
+        <entry key="$PROJECT_DIR$/../scrut" value="4453734711000" />
+        <entry key="$PROJECT_DIR$/../signup" value="2969669704000" />
+        <entry key="$PROJECT_DIR$/../soothsayer" value="7414194533000" />
+        <entry key="$PROJECT_DIR$/../spring-boot-spring-security-tutorial" value="1449667155000" />
+        <entry key="$PROJECT_DIR$/../spring-boot-starter-andamio" value="2849739948000" />
+        <entry key="$PROJECT_DIR$/../spring-boot-starter-andamio-demo" value="2849743534000" />
+        <entry key="$PROJECT_DIR$/../spring-boot-starter-hazelcast" value="2966735874000" />
+        <entry key="$PROJECT_DIR$/../trait-repo" value="7272097300000" />
+        <entry key="$PROJECT_DIR$/../user-id-mapper" value="4342256607000" />
+        <entry key="$PROJECT_DIR$/../user-inbox" value="2925077326000" />
+        <entry key="$PROJECT_DIR$/../workshop-avro-for-developers" value="2974478678000" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../allegro-auth-decoder" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../authentication-admin" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../campaign-store" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../elastic-flux" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../flexible-pricing-facade" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../hermes" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../login-frontend-skycaptcha" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../marketing-automation-mapping-arbiter" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../notification-badges" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../notifications-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../observatory" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spring-security" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/chapter_1/index.html" />
+        <option value="$PROJECT_DIR$/chapter_1/addDiv.js" />
+        <option value="$PROJECT_DIR$/chapter_1/addDiv.ts" />
+        <option value="$PROJECT_DIR$/chapter_1/point.ts" />
+        <option value="$PROJECT_DIR$/chapter_2/implicit_types.ts" />
+        <option value="$PROJECT_DIR$/chapter_2/explicit_types.ts" />
+        <option value="$PROJECT_DIR$/chapter_2/js-shortcomings.ts" />
+        <option value="$PROJECT_DIR$/chapter_2/js-non-determinism.js" />
+        <option value="$PROJECT_DIR$/chapter_2/js-non-determinism.ts" />
+        <option value="$PROJECT_DIR$/chapter_2/intersectionTypes.ts" />
+        <option value="$PROJECT_DIR$/chapter_3/tsconfig.json" />
+        <option value="$PROJECT_DIR$/chapter_3/type_declaration_space.ts" />
+        <option value="$PROJECT_DIR$/chapter_3/variable_declaration_space.ts" />
+        <option value="$PROJECT_DIR$/chapter_3/moduleValue.ts" />
+        <option value="$PROJECT_DIR$/chapter_3/globalValue.ts" />
+        <option value="$PROJECT_DIR$/chapter_3/moduleUsage.ts" />
+        <option value="$PROJECT_DIR$/chapter_3/namespace.ts" />
+        <option value="$PROJECT_DIR$/chapter_2/structural_type.ts" />
+        <option value="$PROJECT_DIR$/chapter_2/types.ts" />
+        <option value="$PROJECT_DIR$/chapter_2/special_types.ts" />
+        <option value="$PROJECT_DIR$/chapter_4/lazy_iterator.ts" />
+        <option value="$PROJECT_DIR$/chapter_4/generators.ts" />
+        <option value="$PROJECT_DIR$/chapter_4/generic.js" />
+        <option value="$PROJECT_DIR$/chapter_4/generic.ts" />
+        <option value="$PROJECT_DIR$/chapter_4/typeGuard.ts" />
+        <option value="$PROJECT_DIR$/chapter_4/intersectionTypes.js" />
+        <option value="$PROJECT_DIR$/chapter_4/intersectionTypes.ts" />
+        <option value="$PROJECT_DIR$/chapter_4/unionsAds.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="817" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Class structure</id>
+          </State>
+          <State>
+            <id>Code maturity issues</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit issues</id>
+          </State>
+          <State>
+            <id>Java language level migration aids</id>
+          </State>
+          <State>
+            <id>Javadoc issues</id>
+          </State>
+          <State>
+            <id>Performance issues</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
+            <id>TestNG</id>
+          </State>
+          <State>
+            <id>Threading issues</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="packt_ts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="packt_ts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="packt_ts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="packt_ts" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="packt_ts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="packt_ts" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="packt_ts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="packt_ts" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="packt_ts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="packt_ts" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="packt_ts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="packt_ts" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_4" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="options.lastSelected" value="preferences.pluginManager" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chapter_4" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../MasterDegreeThesis" value="1458991590000" />
+        <entry key="$PROJECT_DIR$/../TopWordsCounter" value="1481704032000" />
+        <entry key="$PROJECT_DIR$/../TraitDelta" value="4336295728000" />
+        <entry key="$PROJECT_DIR$/../activator-lagom-cargotracker" value="1491292265000" />
+        <entry key="$PROJECT_DIR$/../activator-lagom-scala" value="1491298392000" />
+        <entry key="$PROJECT_DIR$/../akka-http-microservice" value="1489496325000" />
+        <entry key="$PROJECT_DIR$/../akka-http-packt" value="1489498351000" />
+        <entry key="$PROJECT_DIR$/../geecon_spray" value="1489499654000" />
+        <entry key="$PROJECT_DIR$/../packt-akka-http" value="1489496943000" />
+        <entry key="$PROJECT_DIR$/../packt_lagom" value="1491293366000" />
+        <entry key="$PROJECT_DIR$/../paths-builder" value="1459255952000" />
+        <entry key="$PROJECT_DIR$/../play-scala" value="1486977018000" />
+        <entry key="$PROJECT_DIR$/../sbt" value="1438094211000" />
+        <entry key="$PROJECT_DIR$/../spray-template" value="1431375536000" />
+        <entry key="$PROJECT_DIR$/../trait-delta-das" value="1445518443000" />
+        <entry key="$PROJECT_DIR$/../user-id-mapper-hermes-publisher_tool_" value="1455638047000" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../batch-statistics" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../socialnetwork" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fadce80-0a2f-46bf-88dd-49d0b8f8e786" name="Default" comment="" />
+      <created>1537199282734</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537199282734</updated>
+      <workItem from="1537199285830" duration="4381000" />
+      <workItem from="1537251934532" duration="18038000" />
+    </task>
+    <task id="LOCAL-00001" summary="ts files">
+      <created>1537210391289</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1537210391289</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix div">
+      <created>1537210876745</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1537210876745</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add info about types">
+      <created>1537262169159</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1537262169159</updated>
+    </task>
+    <task id="LOCAL-00004" summary="factory method">
+      <created>1537262493990</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1537262493990</updated>
+    </task>
+    <task id="LOCAL-00005" summary="more examples">
+      <created>1537271996473</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1537271996474</updated>
+    </task>
+    <task id="LOCAL-00006" summary="types">
+      <created>1537272403070</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1537272403070</updated>
+    </task>
+    <task id="LOCAL-00007" summary="chapter2 code">
+      <created>1537273218728</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1537273218728</updated>
+    </task>
+    <task id="LOCAL-00008" summary="configure ts project">
+      <created>1537275070815</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1537275070815</updated>
+    </task>
+    <task id="LOCAL-00009" summary="modules">
+      <created>1537275346918</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1537275346918</updated>
+    </task>
+    <task id="LOCAL-00010" summary="namespaces example">
+      <created>1537277033035</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1537277033035</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22419000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="817" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="bottom" id="TypeScript" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="right" id="Graph Database" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25502872" />
+      <window_info anchor="bottom" id="Graph Database Console" order="7" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32909605" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/chapter_1/type_errors.js" />
+        <option value="$PROJECT_DIR$/chapter_1/addDiv.js" />
+        <option value="$PROJECT_DIR$/chapter_1/point.js" />
+        <option value="$PROJECT_DIR$/chapter_2/implicit_types.js" />
+        <option value="$PROJECT_DIR$/chapter_2/explicit_types.js" />
+        <option value="$PROJECT_DIR$/chapter_2/structural_type.js" />
+        <option value="$PROJECT_DIR$/chapter_2/js-shortcomings.js" />
+        <option value="$PROJECT_DIR$/chapter_2/js-non-determinism.js" />
+        <option value="$PROJECT_DIR$/chapter_2/types.js" />
+        <option value="$PROJECT_DIR$/chapter_2/special_types.js" />
+        <option value="$PROJECT_DIR$/chapter_3/type_declaration_space.js" />
+        <option value="$PROJECT_DIR$/chapter_3/variable_declaration_space.js" />
+        <option value="$PROJECT_DIR$/chapter_3/moduleValue.js" />
+        <option value="$PROJECT_DIR$/chapter_3/globalValue.js" />
+        <option value="$PROJECT_DIR$/chapter_3/moduleUsage.js" />
+        <option value="$PROJECT_DIR$/chapter_3/namespace.js" />
+        <option value="$PROJECT_DIR$/chapter_4/generators.js" />
+        <option value="$PROJECT_DIR$/chapter_4/lazy_iterator.js" />
+        <option value="$PROJECT_DIR$/chapter_4/generic.js" />
+        <option value="$PROJECT_DIR$/chapter_4/typeGuard.js" />
+        <option value="$PROJECT_DIR$/chapter_4/unionsAds.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ts files" />
+    <MESSAGE value="fix div" />
+    <MESSAGE value="add info about types" />
+    <MESSAGE value="factory method" />
+    <MESSAGE value="more examples" />
+    <MESSAGE value="types" />
+    <MESSAGE value="chapter2 code" />
+    <MESSAGE value="configure ts project" />
+    <MESSAGE value="modules" />
+    <MESSAGE value="namespaces example" />
+    <option name="LAST_COMMIT_MESSAGE" value="namespaces example" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/chapter_1/point.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/chapter_1/point.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_1/type_errors.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_1/addDiv.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" column="47" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_1/addDiv.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="42" selection-start-column="39" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_1/type_errors.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_1/point.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_2/js-non-determinism.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="19" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_3/foo.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_3/moduleUsage.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_3/foo.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_3/namespace">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_3/globalValue.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_3/moduleValue.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_3/type_declaration_space.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_3/variable_declaration_space.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_3/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_3/namespace.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_2/implicit_types.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" column="6" selection-start-line="1" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_2/explicit_types.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="14" selection-start-line="2" selection-end-line="2" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_2/js-shortcomings.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_2/types.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="36" column="12" lean-forward="true" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_2/structural_type.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_2/special_types.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="57" column="7" lean-forward="true" selection-start-line="57" selection-start-column="7" selection-end-line="57" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_4/generators.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="65" lean-forward="true" selection-end-line="12" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_4/generators.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="37" column="18" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_4/lazy_iterator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="63" column="9" lean-forward="true" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_4/lazy_iterator.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_4/generic.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_4/generic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="22" lean-forward="true" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_4/typeGuard.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="8" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_2/js-non-determinism.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="639">
+          <caret line="30" column="26" selection-start-line="30" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_4/intersectionTypes.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_4/intersectionTypes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_4/unionsAds.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
